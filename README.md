@@ -1,5 +1,5 @@
 # AndroidStudy
 
-# Java, Kotlin Different.
+Java, Kotlin Different.
 
-# Android App BMI calculater
+Android App BMI calculater
